@@ -8,6 +8,7 @@
 	- `assets` 视频图像pdf等资产
 	- `logseq` 笔记全局配置
 		- `bak` 自动备份目录
+		- `.recycle` 删除回收站
 - #Obsidian 默认创建的目录
 	- `.obsidian` 笔记全局配置
 	- `.trash` 软件回收站
