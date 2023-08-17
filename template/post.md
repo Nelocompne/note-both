@@ -1,6 +1,6 @@
 ---
-title: {{title}}
-date: {{date:YYYY/M/DD}} {{time:HH:mm:ss}}
+title: "{{title}}"
+date: "{{date:YYYY/M/DD}} {{time:HH:mm:ss}}"
 tags:
   - tags
 ---
