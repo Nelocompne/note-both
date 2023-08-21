@@ -292,7 +292,7 @@
  ;;  :journal?        false} ; Default value: false
 
  ;; Favorites to list on the left sidebar
- :favorites []
+ :favorites ["资源文件例子" "Lorem Ipsum"]
 
  ;; Set flashcards interval.
  ;; Expected value:
