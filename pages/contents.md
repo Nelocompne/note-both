@@ -1,2 +1,3 @@
 - [[Aug 17th, 2023]] 首次创建
 - Logseq [[资源文件例子]]
+- 本地 logseq 配置目录 `~\.logseq`
